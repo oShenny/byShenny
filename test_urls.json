@@ -1,0 +1,353 @@
+{
+    "Test Set 1: Air France": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CDG&departure_destination_2=CDG&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=AMS&departure_destination_2=AMS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=CDG&departure_destination_2=CDG&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SJO&departure_destination_2=SJO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=PPT&departure_destination_2=PPT&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LIM&departure_destination_2=LIM&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CMN&departure_destination_2=CMN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+        
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=RBA&departure_destination_2=RBA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MEX&departure_destination_2=MEX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 2: Austrian": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=BRU&departure_destination_2=BRU&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MXP&departure_destination_2=MXP&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=CDG&departure_destination_2=CDG&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=OTP&departure_destination_2=OTP&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=TIA&departure_destination_2=TIA&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=BKK&departure_destination_2=BKK&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=ARN&departure_destination_2=ARN&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=ATH&departure_destination_2=ATH&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=FRA&departure_destination_2=FRA&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 3: British Airways": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LHR&departure_destination_2=LHR&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=LHR&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=LHR&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MIA&departure_destination_2=MIA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=LHR&departure_destination_2=LHR&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LAX&departure_destination_2=LAX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BGI&departure_destination_2=BGI&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=PHX&departure_destination_2=PHX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LAS&departure_destination_2=LAS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MIA&departure_destination_2=MIA&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 4: Brussels Airlines": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BRU&departure_destination_2=BRU&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=BRU&departure_destination_2=BRU&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=BRU&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=BRU&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=EBB&departure_destination_2=EBB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=KRK&departure_date_1={departure_date_1}&arrival_destination_1=BRU&departure_destination_2=BRU&departure_date_2={departure_date_2}&arrival_destination_2=KRK&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=NBO&departure_destination_2=NBO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=KGL&departure_destination_2=KGL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=OPO&departure_destination_2=OPO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TLS&departure_destination_2=TLS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BIO&departure_destination_2=BIO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 5: Condor": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CUN&departure_destination_2=CUN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=FRA&departure_date_1={departure_date_1}&arrival_destination_1=CUN&departure_destination_2=CUN&departure_date_2={departure_date_2}&arrival_destination_2=FRA&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HAV&departure_destination_2=HAV&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SFO&departure_destination_2=SFO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=ANC&departure_destination_2=ANC&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=FRA&departure_date_1={departure_date_1}&arrival_destination_1=MBJ&departure_destination_2=MBJ&departure_date_2={departure_date_2}&arrival_destination_2=FRA&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=VRA&departure_destination_2=VRA&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SJD&departure_destination_2=SJD&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 6: Emirates": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DXB&departure_destination_2=DXB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=DXB&departure_destination_2=DXB&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HAN&departure_destination_2=HAN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DPS&departure_destination_2=DPS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BKK&departure_destination_2=BKK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MRU&departure_destination_2=MRU&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=CMB&departure_destination_2=CMB&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CMB&departure_destination_2=CMB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 7: Finnair": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HEL&departure_destination_2=HEL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=HEL&departure_destination_2=HEL&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=HEL&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=HEL&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DEL&departure_destination_2=DEL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=KRK&departure_date_1={departure_date_1}&arrival_destination_1=HEL&departure_destination_2=HEL&departure_date_2={departure_date_2}&arrival_destination_2=KRK&passengers_adt=1&search_interval=3&travel_class=E",
+        
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HND&departure_destination_2=HND&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=KEF&departure_destination_2=KEF&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=ICN&departure_destination_2=ICN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=RVN&departure_destination_2=RVN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=IVL&departure_destination_2=IVL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 8: flydubai": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DXB&departure_destination_2=DXB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=KRK&departure_date_1={departure_date_1}&arrival_destination_1=KBV&departure_destination_2=KBV&departure_date_2={departure_date_2}&arrival_destination_2=KRK&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CMB&departure_destination_2=CMB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=KTM&departure_destination_2=KTM&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=ZNZ&departure_destination_2=ZNZ&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=KBV&departure_destination_2=KBV&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MBA&departure_destination_2=MBA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MCT&departure_destination_2=MCT&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=KRK&departure_date_1={departure_date_1}&arrival_destination_1=DXB&departure_destination_2=DXB&departure_date_2={departure_date_2}&arrival_destination_2=KRK&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 9: Iberia": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MAD&departure_destination_2=MAD&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MAD&departure_destination_2=MAD&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=MAD&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=MAD&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=SJO&departure_destination_2=SJO&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MIA&departure_destination_2=MIA&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=DFW&departure_destination_2=DFW&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=FUE&departure_destination_2=FUE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LIM&departure_destination_2=LIM&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=XRY&departure_destination_2=XRY&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MEX&departure_destination_2=MEX&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 10: KLM": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=AMS&departure_destination_2=AMS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=AMS&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=AMS&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=AMS&departure_destination_2=AMS&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LIM&departure_destination_2=LIM&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=UIO&departure_destination_2=UIO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MEX&departure_destination_2=MEX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SJO&departure_destination_2=SJO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=EDI&departure_destination_2=EDI&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BGO&departure_destination_2=BGO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 11: LOT": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=WAW&departure_destination_2=WAW&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=VNO&departure_destination_2=VNO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=WAW&departure_date_1={departure_date_1}&arrival_destination_1=PRG&departure_destination_2=PRG&departure_date_2={departure_date_2}&arrival_destination_2=WAW&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=OTP&departure_destination_2=OTP&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TLL&departure_destination_2=TLL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TBS&departure_destination_2=TBS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=EVN&departure_destination_2=EVN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=RMO&departure_destination_2=RMO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MIA&departure_destination_2=MIA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=EWR&departure_destination_2=EWR&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 12: Lufthansa": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BRU&departure_destination_2=BRU&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=AKL&departure_destination_2=AKL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=FRA&departure_destination_2=FRA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DUS&departure_destination_2=DUS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TFS&departure_destination_2=TFS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=VLC&departure_destination_2=VLC&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=ARN&departure_destination_2=ARN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LAX&departure_destination_2=LAX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLA&departure_destination_2=MLA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LCA&departure_destination_2=LCA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 13: Qatar Airways": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BKK&departure_destination_2=BKK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DPS&departure_destination_2=DPS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CMB&departure_destination_2=CMB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HAN&departure_destination_2=HAN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HKT&departure_destination_2=HKT&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SGN&departure_destination_2=SGN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DEL&departure_destination_2=DEL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CGK&departure_destination_2=CGK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 14: Singapore Airlines": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=DPS&departure_date_1={departure_date_1}&arrival_destination_1=SIN&departure_destination_2=SIN&departure_date_2={departure_date_2}&arrival_destination_2=DPS&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=CCU&departure_date_1={departure_date_1}&arrival_destination_1=SUB&departure_destination_2=SUB&departure_date_2={departure_date_2}&arrival_destination_2=CCU&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=SIN&departure_date_1={departure_date_1}&arrival_destination_1=HKT&departure_destination_2=HKT&departure_date_2={departure_date_2}&arrival_destination_2=SIN&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=SIN&departure_destination_2=SIN&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SIN&departure_destination_2=SIN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=SAI&departure_date_1={departure_date_1}&arrival_destination_1=SIN&departure_destination_2=SIN&departure_date_2={departure_date_2}&arrival_destination_2=SAI&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=SIN&departure_date_1={departure_date_1}&arrival_destination_1=KUL&departure_destination_2=KUL&departure_date_2={departure_date_2}&arrival_destination_2=SIN&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=SIN&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=SIN&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=HKT&departure_date_1={departure_date_1}&arrival_destination_1=SIN&departure_destination_2=SIN&departure_date_2={departure_date_2}&arrival_destination_2=HKT&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 15: SWISS Int. Air Lines": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=AKL&departure_destination_2=AKL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=ZRH&departure_destination_2=ZRH&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=JFK&departure_destination_2=JFK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=LAX&departure_destination_2=LAX&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TPA&departure_destination_2=TPA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MIA&departure_destination_2=MIA&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=OPO&departure_destination_2=OPO&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TFS&departure_destination_2=TFS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=AGP&departure_destination_2=AGP&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=YYC&departure_destination_2=YYC&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ],
+
+    "Test Set 16: Turkish Airlines": [
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=IST&departure_destination_2=IST&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+        
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=VIE&departure_date_1={departure_date_1}&arrival_destination_1=IST&departure_destination_2=IST&departure_date_2={departure_date_2}&arrival_destination_2=VIE&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=HAN&departure_destination_2=HAN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=BKK&departure_destination_2=BKK&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=DEL&departure_destination_2=DEL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MLE&departure_destination_2=MLE&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=MEL&departure_destination_2=MEL&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=CMB&departure_destination_2=CMB&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=SGN&departure_destination_2=SGN&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E",
+
+        "https://letenky.studentagency.cz/booking/api/search/v3?id_dealer=10&lang=cs&departure_destination_1=PRG&departure_date_1={departure_date_1}&arrival_destination_1=TBS&departure_destination_2=TBS&departure_date_2={departure_date_2}&arrival_destination_2=PRG&passengers_adt=1&search_interval=3&travel_class=E"
+    ]
+}
